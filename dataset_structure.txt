@@ -1,0 +1,17 @@
+dataset/
+├── pop/
+│   ├── song1.mp3
+│   ├── song2.mp3
+│   ├── song3.wav
+├── jazz/
+│   ├── jazz1.mp3
+│   ├── jazz2.mp3
+│   ├── jazz3.wav
+├── rock/
+│   ├── rock1.mp3
+│   ├── rock2.mp3
+│   ├── rock3.wav
+└── classical/
+    ├── classical1.mp3
+    ├── classical2.mp3
+    ├── classical3.wav
